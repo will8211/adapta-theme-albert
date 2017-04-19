@@ -12,7 +12,7 @@ Add `Adapta.qss` to:
 
 or 
 
-`/use/share/local/albert/themes`
+`/usr/share/local/albert/themes`
 
 ```
  __________________
