@@ -14,7 +14,7 @@ Add `Adapta.qss` to:
 
 or 
 
-`/usr/share/local/albert/themes`
+`/usr/share/local/albert/themes/`
 
 ```
  __________________
