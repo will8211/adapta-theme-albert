@@ -3,13 +3,18 @@
 Adapta theme for the albert launcher.
 
 <https://github.com/adapta-project/adapta-gtk-theme>
-<https://github.com/albertlauncher/albert>.
+
+<https://github.com/albertlauncher/albert>
+
+![Screenshot](screenshot.png)
 
 Add `Adapta.qss` to:
 
 `~/.local/share/albert/themes/`
+
 or 
-`/use/share/local/albert/themes`
+
+`/usr/share/local/albert/themes`
 
 ```
  __________________
